@@ -3,7 +3,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name="next_thing",
+    name="python_world",
     use_scm_version={
         "root": "..",
         "local_scheme": "node-and-timestamp",
