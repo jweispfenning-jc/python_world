@@ -1,2 +1,0 @@
-name = "johns_world"
-
